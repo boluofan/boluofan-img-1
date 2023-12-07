@@ -1,0 +1,53 @@
+央视,#genre#
+CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV-9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV-11戏曲,http://183.196.25.171:808/hls/11/index.m3u8
+CCTV-12社会与法制,http://183.196.25.171:808/hls/12/index.m3u8
+CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-17农业农村,http://183.196.25.171:808/hls/93/index.m3u8
+
+地方,#genre#
+NewTV精品電影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+NewTV精品電影,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+NewTV超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+SiTV全纪实台,http://112.25.48.68/live/program/live/qjshd/4000000/mnf.m3u8
+SiTV欢笑剧场,http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8
+TV BRICS Chinese,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+上海五星体育,http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
+东南卫视,http://112.25.48.68/live/program/live/dnwshd/4000000/mnf.m3u8
+云南 Ⅰ 文山综合台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+孟州电视台,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+建安电视台,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
+文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+新昌休闲影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新昌新聞綜合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新郑综合,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+洪雅新闻综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
+浙江6套,https://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江公共,https://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江留学,https://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+浙江经济生活,https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+滁州市广播电视台 新闻综合频道,http://live.cztv.cc:85/live/xwpd.m3u8
+石景山电视台,https://live.sjsrm.com/bjsjs/sd/live.m3u8
+福州广播电视台新闻综合频道 (FZTV-1),http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+福州电视台少儿频道 (FZTV-少儿),http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+罗山电视台,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
